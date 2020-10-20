@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Gabriel and I am currently finishing my Master of business in FIAP and Start my company Space IT!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Gabriel1011/Gabriel1011/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -41,4 +41,4 @@ Welcome to my Github page! I am Gabriel and I am currently finishing my Master o
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/Gabriel1011/Gabriel1011/blob/main/cover_image.jpg)</sub>
