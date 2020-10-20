@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-b5221974/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel.rodrigues.almeida1@gmail.com)
 
-Welcome to my Github page! I am Gabriel and I am currently finishing my Master of business in FIAP and Start my company Space IT!  
+Welcome to my Github page! I am Gabriel and I am currently finishing my Master of business in FIAP and starting my company Space IT!  
 
 <img align="right" alt="img" src="https://github.com/Gabriel1011/Gabriel1011/blob/main/cover_image.jpg" width="50%" height="auto" />
 
@@ -13,7 +13,7 @@ Welcome to my Github page! I am Gabriel and I am currently finishing my Master o
 #### 🌱 Things I am currently working on: 
 - Finish my Master of business
 - Taking online courses about Flutter and Angular
-- Start my company Space IT
+- Starting my company Space IT
 
 #### :muscle: Things I am challenging myself with:
 - Developer in FrondEnd
