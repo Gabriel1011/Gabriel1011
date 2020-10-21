@@ -17,7 +17,7 @@ Welcome to my Github page! I am Gabriel and I am currently finishing my Master o
 
 #### :muscle: Things I am challenging myself with:
 - Developer in FrondEnd
-- Coding at least 2 hours a day in my person projects
+- Coding at least 2 hours a day in my personal projects
 - Exercising 3 days a week
 
 #### :computer: Programming languages and tools: 
